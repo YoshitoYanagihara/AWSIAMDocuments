@@ -10,5 +10,9 @@
 
 ## 関連資料
 
+### 基本資料
 - [管理方針](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/docs/Policy.md)
 - [ユーザリスト](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/docs/Users.md)
+
+### 手順書
+- [IAM管理ユーザ作成](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/docs/Admin/CreateIAMManageUser.md)
