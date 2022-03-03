@@ -6,6 +6,7 @@ AWS IAMの学習記録や検証を目的としたリポジトリ
 
 - [ユーザ](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Lerning/User.md)
 - [グループ](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Lerning/Group.md)
+- [プリンシパル](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Lerning/Principal.md)
 - [ロール](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Lerning/Role.md)
 - [ポリシー](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Lerning/Policy.md)
 
