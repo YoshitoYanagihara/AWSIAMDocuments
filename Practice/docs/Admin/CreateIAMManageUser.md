@@ -7,7 +7,7 @@
 
 1. ユーザ「iam_manage」を作成
 2. iam_manageにアタッチする為のポリシーを作成（ポリシー名はiam_manage_policyとする）
-3. iam_manage_policyに対してIAMの全てのIAMアクション権限を付与し、リソースのgroupとuserの「ARNの追加」→「Group(User) name with path」に「child_*」と指定する
+3. iam_manage_policyに対して全てのIAMアクション権限を付与し、リソースのgroupとuserの「ARNの追加」→「Group(User) name with path」に「child_*」と指定する
 4. iam_manage_policyをiam_manageにアタッチ
 
 上記手順にて、「child_」のプレフィクスを持つユーザ・グループのみを管理できるようになる
