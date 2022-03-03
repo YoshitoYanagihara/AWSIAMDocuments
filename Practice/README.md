@@ -10,5 +10,5 @@
 
 ## 関連資料
 
-- [管理方針](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/Policy.md)
-- [ユーザリスト](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/Users.md)
+- [管理方針](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/docs/Policy.md)
+- [ユーザリスト](https://github.com/YoshitoYanagihara/AWSIAMDocuments/blob/main/Practice/docs/Users.md)
